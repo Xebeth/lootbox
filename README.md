@@ -1,4 +1,4 @@
-# lootbox
+# Lootbox
 *Archived from Google Code:*
 
 >Offline inventory for Final Fantasy XI.<br>
